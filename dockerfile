@@ -18,4 +18,4 @@ RUN pip install --upgrade pip && \
 EXPOSE 8000
 
 # Define the command to run the Django app
-CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
+CMD sh -c "python manage.py runserver 0.0.0.0:8000"
