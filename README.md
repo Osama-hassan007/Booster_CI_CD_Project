@@ -1,6 +1,6 @@
 # CI_CD_Project
 
-Create CI/CD pipeline using jenkinsfile to deploy simple django web app as a microservice running on docker container locally
+Create CI/CD pipeline using jenkinsfile to  deploy simple django web app as a microservice running on docker container locally
 
 # Steps
 
